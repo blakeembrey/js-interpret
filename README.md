@@ -1,4 +1,6 @@
 # interpret
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/js-interpret.svg)](https://greenkeeper.io/)
 > A dictionary of file extensions and associated module loaders.
 
 [![NPM](https://nodei.co/npm/interpret.png)](https://nodei.co/npm/interpret/)
